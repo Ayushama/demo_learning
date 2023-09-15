@@ -1,0 +1,3 @@
+Mesokurtic: A mesokurtic distribution has kurtosis equal to 0. This means the distribution has tails and a peak similar to a normal distribution (e.g., a Gaussian distribution).
+Leptokurtic: A leptokurtic distribution has positive kurtosis. It has heavier tails and a sharper peak compared to a normal distribution. 
+Platykurtic: A platykurtic distribution has negative kurtosis. It has lighter tails and a flatter peak compared to a normal distribution. 
