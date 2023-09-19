@@ -1,0 +1,11 @@
+As of my last knowledge update in September 2021, when you create a new repository on GitHub, it offers to add the following files by default:
+
+README.md file: This file is a markdown-formatted document that provides a quick and simple way for collaborators and visitors to learn more about your repository. It's often used to describe the project, its purpose, how to get started, and other relevant information.
+
+.gitignore file: This file is used to specify files or directories that you don't want to include in the version control system (Git). It allows you to exclude files such as build artifacts, log files, or sensitive configuration files from being tracked by Git.
+
+A license file: GitHub provides you with the option to choose a license for your repository. If you choose to add a license, GitHub will create a corresponding license file (e.g., LICENSE.txt) in your repository. The license file specifies the terms under which others can use, modify, and distribute your project.
+
+
+
+
